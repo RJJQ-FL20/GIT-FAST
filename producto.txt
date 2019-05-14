@@ -1,0 +1,25 @@
+        Libro:                         Autor
+    Shielding Lily                  Alexa Riley
+    Vampire mine                    Aline Hunter
+    Me acuerdo                      Amaya Evans 
+    Suplantacion                    Alexia Adams
+    El protector                    Alice Kellen 
+    Tenias que ser tu               Aline Hunter
+    The billonary                   Amaya Evans
+    Luce y Sombras                  Amber Lake
+    Maldito Bastardo                Ana Alvarez
+    Me Vuelves Loco                 Ana Forner
+    Playboy Pilot                   Anais Valcarcel
+    La chica de color               Angelica Bovari
+    Una Culpable                    Anna Galbis
+    Porque tu                       Anna Garcia
+    El Seductor                     Anne Wood
+    Un cafe con sal                 Julie turman 
+    Encuentrame Pronto              Anthea Sharp
+    Sigueme la corriente            Megan Maxwell
+    Adicta a Scott                  Emily Delevigne
+    Mi perfecto sapo azul           Silvia Garcia Ruiz    
+    Besos de arena                  Reyes Monforte
+    Tres veces tu                   Federico Moccia
+    Trilogia Divergente             Veronica Roth
+    Saga Harry Potter               J.K. Rowling  

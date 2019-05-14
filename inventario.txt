@@ -1,0 +1,26 @@
+   Articulos:
+    Precio               Nombre                           Autor
+     11 soles             Shielding Lily                  Alexa Riley
+     22 soles            Vampire mine                    Aline Hunter
+     34 soles           Me acuerdo                      Amaya Evans 
+     24 soles           Suplantacion                    Alexia Adams
+     44 soles           El protector                    Alice Kellen 
+     33 soles           Tenias que ser tu               Aline Hunter
+     24 soles           The billonary                   Amaya Evans
+     21 soles            Luce y Sombras                  Amber Lake
+     34 soles           Maldito Bastardo                Ana Alvarez
+     46 soles           Me Vuelves Loco                 Ana Forner
+     49 soles           Playboy Pilot                   Anais Valcarcel
+     37 soles           La chica de color               Angelica Bovari
+     74 soles           Una Culpable                    Anna Galbis
+     16 soles            Porque tu                       Anna Garcia
+     19 soles            El Seductor                     Anne Wood
+     24 soles           Un cafe con sal                 Julie turman 
+     14 soles            Encuentrame Pronto              Anthea Sharp
+     14 soles            Sigueme la corriente            Megan Maxwell
+     51 soles            Adicta a Scott                  Emily Delevigne
+     89 soles           Mi perfecto sapo azul           Silvia Garcia Ruiz    
+     63 soles           Besos de arena                  Reyes Monforte
+     72 soles           Tres veces tu                   Federico Moccia
+     82 soles           Trilogia Divergente             Veronica Roth
+     93 soles           Saga Harry Potter               J.K. Rowling  

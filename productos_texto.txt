@@ -1,0 +1,25 @@
+ALMACEN - REPORTE TOTAL DE PRODUCTOS 
+NUMERO	CODIGO	CATEGORIA	NOMBRE			DESCRIPCION	PRECIO	STOCK
+1	1000	Romance 	Shielding Lily		Alexa Riley	21.000000	24
+2	1001	Romance	Vampire mine		Aline Hunter	22.000000	24
+3	1002	Misterio	Me acuerdo de ti		Amaya Evans	34.000000	26
+4	1003	Policial	Suplantacion 		Alexia Adams	24.000000	23
+5	1004	Romance	El Protector		Alice Kellen	44.000000	25
+6	1005	Misterio 	Tenias que ser tu 		Aline Hunter 	33.000000	28
+7	1006	Policial	The Billonary		Amaya Evans	24.000000	29
+8	1007	Misterio	Luces y sombras 		Amber Lake 	21.000000	21
+9	1008	Policial	Maldito Batardo 		Ana Alvarez	34.000000	25
+10	1009	Romance	Me vuelves Loco 		Ana Forner	46.000000	23
+11	1010	Romance	Playboy Pilot 		Anais Valcarcel	49.000000	24
+12	1011	Misterio 	La chica de color 		Angelica Bovari 	37.000000	20
+13	1012	Policial	Una Culpable 		Anna Galbis 	74.000000	23
+14	1013	Romance 	Porque Tu 		Anna Garcia 	26.000000	27
+15	1014	Romance	El Seductor 		Anne Wood	19.000000	20
+16	1015	Romance	Un cafe con sal 		Julie Turman 	24.000000	15
+17	1016	Misterio	Encuentrame Pronto 		Anthea Sharp 	14.000000	18
+18	1017	Romance	Sigueme la corriente 		Megan Maxwell	25.000000	14
+19	1018	Romance	Adicta a Scott		Emily Delevigne 	51.000000	24
+20	1019	Romance	Mi Perfecto Sapo Azul		Silvia Garcia Ruiz	69.000000	28
+21	1020	Romance	Besos de arena		Reyes Monforte	63.000000	28
+22	1021	Misterio	Tres veces tu		Federico Moccia	42.000000	26
+23	1022	Aventura	Trilogia Divergente		Veronica Roth	82.000000	25

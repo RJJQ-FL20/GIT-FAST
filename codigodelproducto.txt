@@ -1,0 +1,26 @@
+
+     Precio            Codigo         Nombre                           Autor
+     21 soles            1000           Shielding Lily                  Alexa Riley
+     22 soles            1001           Vampire mine                    Aline Hunter
+     34 soles            1002           Me acuerdo                      Amaya Evans 
+     24 soles            1003           Suplantacion                    Alexia Adams
+     44 soles            1004           El protector                    Alice Kellen 
+     33 soles            1005           Tenias que ser tu               Aline Hunter
+     24 soles            1006           The billonary                   Amaya Evans
+     21 soles            1007           Luce y Sombras                  Amber Lake
+     34 soles            1008           Maldito Bastardo                Ana Alvarez
+     46 soles            1009           Me Vuelves Loco                 Ana Forner
+     49 soles            1010           Playboy Pilot                   Anais Valcarcel
+     37 soles            1011           La chica de color               Angelica Bovari
+     74 soles            1012           Una Culpable                    Anna Galbis
+     26 soles            1013           Porque tu                       Anna Garcia
+     19 soles            1014           El Seductor                     Anne Wood
+     24 soles            1015           Un cafe con sal                 Julie turman 
+     14 soles            1016           Encuentrame Pronto              Anthea Sharp
+     25 soles            1017           Sigueme la corriente            Megan Maxwell
+     51 soles            1018           Adicta a Scott                  Emily Delevigne
+     69 soles            1019           Mi perfecto sapo azul           Silvia Garcia Ruiz    
+     63 soles            1020           Besos de arena                  Reyes Monforte
+     42 soles            1021           Tres veces tu                   Federico Moccia
+     82 soles            1022           Trilogia Divergente             Veronica Roth
+     93 soles            1023           Saga Harry Potter               J.K. Rowling  

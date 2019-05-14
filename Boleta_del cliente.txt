@@ -1,0 +1,3 @@
+Reporte de Boleta...
+Doc.Cliente : 		 Nombre : 		 Apellidos : 		 Num de la Tajeta 	 Precio Total 		 Codigo 		 Unidad  		 Precio 		 
+75446631 		 ashly 		 aguilar gutierrez 		 1007661458 		 3250 			 110 			 5 			 650 		  

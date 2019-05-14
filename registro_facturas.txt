@@ -1,0 +1,80 @@
+
+ Registro de facturas de la Tienda:
+  
+ 	 **********  FACTURA   ***********
+
+	Nombre del cliente:  karen casta¤eda 
+	DNI: 06010186
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 173 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  ricardo morales
+	DNI: 02589621
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 21 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  brenda mendoza 
+	DNI: 06101551851
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 140 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  walter abregu tinoco
+	DNI: 061011458
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 21 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  ashly aguilar 
+	DNI: 025639875
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 21 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  karen pimentel
+	DNI: 06010186
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 110 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  karen castaled
+	DNI: 06010186
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 42 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  wilson zaciga
+	DNI: 70784626
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 105 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  diego flores ramos
+	DNI: 06010185
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 67 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  Xiokmara Bedoya Arias
+	DNI: 71469557
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 136 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
+	 **********  FACTURA   ***********
+
+	Nombre del cliente:  ERICKA SALAZAR HUARI
+	DNI: 76834989
+	Modo de pago : Tarjeta Debido
+	Total de su compra: 46 soles
+	 Gracias por su visita a la tienda , vuelva pronto .
